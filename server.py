@@ -1,5 +1,5 @@
 from mcp.server.fastmcp import FastMCP
-from financial_analysis_agent import run_financial_analysis
+from financial_analysis_agent.finance_crew import run_financial_analysis
 
 # create FastMCP instance
 mcp = FastMCP("financial-analyst")
