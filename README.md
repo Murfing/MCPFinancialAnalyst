@@ -72,7 +72,7 @@ You can now chat with Cursor and analyze stock market data. Simply provide the s
 - "Analyze the trading volume of Amazon stock for the last month"
 
 ---
-![unnamed (1)](https://github.com/user-attachments/assets/b459a380-23e3-44e8-ab95-622561579af0)
+![image](https://github.com/user-attachments/assets/91b67f22-a847-4d99-98a9-54d12d8439e7)
 ---
 
 ## Contribution
